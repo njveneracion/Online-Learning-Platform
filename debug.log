@@ -1,0 +1,47 @@
+[2024-09-14 22:04:21] Session check: Active session found for User ID: 94
+[2024-09-14 22:04:21] Session Data: Array
+(
+    [userID] => 94
+    [email] => njvenxxviii@gmail.com
+    [role] => student
+    [fullname] => Nelson Jay Veneracion
+    [username] => njven
+)
+
+[2024-09-14 22:04:21] Cookie Data: Array
+(
+    [PHPSESSID] => 8kcdmg493ptf5i08rq9hlb8l4r
+)
+
+[2024-09-14 22:04:54] Session check: No active session found
+[2024-09-14 22:04:54] Session Data: Array
+(
+)
+
+[2024-09-14 22:04:54] Cookie Data: Array
+(
+)
+
+[2024-09-14 22:05:43] Session check: No active session found
+[2024-09-14 22:05:43] Session Data: Array
+(
+)
+
+[2024-09-14 22:05:43] Cookie Data: Array
+(
+)
+
+[2024-09-14 22:14:23] Login attempt for: takeriissk@gmail.com
+[2024-09-14 22:14:23] User authenticated successfully. UserID: 95
+[2024-09-14 22:14:23] Session saved in database. Session ID: u5nmgeblvd38s35ve9k2745q5t
+[2024-09-14 22:14:23] Redirecting to: ./instructor/i_main.php
+[2024-09-14 22:15:30] Login attempt for: takeriissk@gmail.com
+[2024-09-14 22:15:30] Invalid email or password
+[2024-09-14 22:15:38] Login attempt for: takeriissk@gmail.com
+[2024-09-14 22:15:38] User authenticated successfully. UserID: 95
+[2024-09-14 22:15:38] Session saved in database. Session ID: v7ddrto5rbhv5eaksqghlljhhb
+[2024-09-14 22:15:38] Redirecting to: ./instructor/i_main.php
+[2024-09-14 22:16:20] Login attempt for: takeriissk@gmail.com
+[2024-09-14 22:16:20] User authenticated successfully. UserID: 95
+[2024-09-14 22:16:20] Session saved in database. Session ID: glvao90s4h1tudmu04jf42g63l
+[2024-09-14 22:16:20] Redirecting to: ./instructor/i_main.php
